@@ -24,3 +24,8 @@ xcodebuild archive -scheme PROJECTNAME_HERE -destination="iOS Simulator" -archiv
 
 
 xcodebuild -create-xcframework -framework /tmp/xcf/ios.xcarchive/Products/Library/Frameworks/PROJECTNAME_HERE.framework -framework /tmp/xcf/iossimulator.xcarchive/Products/Library/Frameworks/PROJECTNAME_HERE.framework -output FRAMEWORK_NAME.xcframework
+
+
+<h2> YT 2 </h2>
+
+https://www.youtube.com/watch?v=40EmwraG4-k
