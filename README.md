@@ -29,3 +29,5 @@ xcodebuild -create-xcframework -framework /tmp/xcf/ios.xcarchive/Products/Librar
 <h2> YT 2 </h2>
 
 https://www.youtube.com/watch?v=40EmwraG4-k
+
+![Cmd](https://user-images.githubusercontent.com/33363003/224033047-91405a3e-428c-480e-8b0f-bfe75165db26.png)
